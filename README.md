@@ -4,6 +4,9 @@
 
 - [Go-to-Heroku-App-dev-branch](https://ruba-server-deploy-dev.herokuapp.com/)
 
+- [Go-to-Github](https://github.com/RubaBanat/server-deployment-practice/actions)
+
+- [Pull-request](https://github.com/RubaBanat/server-deployment-practice/pull/2)
 
 ---
 
